@@ -1,0 +1,44 @@
+Question q1
+===========
+*** q1) check_perceptron
+Sanity checking perceptron...
+Sanity checking perceptron weight updates...
+Sanity checking complete. Now training perceptron
+*** PASS: check_perceptron
+
+### Question q1: 8/8 ###
+
+Question q2
+===========
+*** q2) check_regression
+Your final loss is: 0.019956
+*** PASS: check_regression
+
+### Question q2: 8/8 ###
+
+Question q3
+===========
+*** q3) check_digit_classification
+0.1312
+0.954
+0.9702
+0.9726
+0.9734
+0.9742
+0.9746
+Your final test set accuracy is: 97.580000%
+*** PASS: check_digit_classification
+
+### Question q3: 9/9 ###
+
+Finished at 19:19:03
+
+Provisional grades
+Question q1: 8/8
+Question q2: 8/8
+Question q3: 9/9
+------------------
+Total: 25/25
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
